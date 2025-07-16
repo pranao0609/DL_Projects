@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dl-banner.png" alt="DL Projects Banner" width="100%">
+</p>
+
 # DL Projects – 25 End-to-End Deep Learning Projects
 
 Welcome to **DL Projects**, a curated collection of **25 real-world Deep Learning projects**, built using **PyTorch**, **Transformers**, and popular DL libraries — all created and tested in **Google Colab**. This repository is designed to help you master deep learning through hands-on practice, from fundamentals to state-of-the-art models in vision, NLP, and audio.
